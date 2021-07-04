@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"smshoman-9d1d3",
     "public": "build",
     "ignore": [
       "firebase.json",
