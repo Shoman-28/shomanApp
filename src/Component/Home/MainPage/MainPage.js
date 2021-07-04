@@ -8,6 +8,7 @@ import homePageImg from "../../../image/about-removebg-preview.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowAltCircleDown } from "@fortawesome/free-solid-svg-icons";
 const Resume ="https://drive.google.com/file/d/1hKyolaG7Cx9DpHFmBmar0OxPdojbv62h/view?usp=sharing";
+https://drive.google.com/drive/u/1/folders/10O1YAaVS01OYb4cuwO-4al-BjA1t3vZe
 const MainPage = () => {
   return (
     <section id="background-image">
